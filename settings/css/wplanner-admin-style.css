@@ -1,0 +1,239 @@
+/*------------------------------*/
+/*         Admin Styles         */
+/*------------------------------*/
+
+.updated {
+	max-width: 954px;
+	margin-bottom: 0px !important;
+}
+#wplannerfb {
+	position: relative;
+	z-index: 0;
+	background: #fff;
+	width:100%;
+}
+#wplannerfb p {
+	margin-bottom: 0;
+	padding-bottom: 10px;
+}
+h2.fb-pp_nav-tab-wrapper a {
+	font-size: 14px;
+}
+#wplannerfb .section {
+	padding: 10px 10px 0;
+}
+#wplannerfb .group {
+	padding-bottom: 40px;
+}
+#wplannerfb .section .heading {
+	padding: 10px 0px;
+	margin: 0 0 15px;
+	border-bottom: 1px solid #dfdfdf;
+}
+#wplannerfb .section .controls {
+	float: left;
+	min-width:350px;
+	width: 30%;
+	padding-right:2%;
+}
+#wplannerfb .section .explain {
+	max-width: 38%;
+	float: left;
+	font-size: 12px;
+	line-height: 16px;
+	color: #777;
+}
+#wplannerfb .section-info {
+	width: 97%;
+	float: left;
+	font-size: 12px;
+	line-height: 16px;
+	background-color: #BDE5F8;
+	color: #00529B;
+	border: 1px solid #00529B;
+	padding: 0 10px 10px 10px;
+	border-radius: 5px;
+	margin: 10px 10px 20px 10px;
+}
+#wplannerfb .section-info h4{
+	border-bottom:1px solid #00529B !important;
+}
+#wplannerfb .section-checkbox .controls {
+	width: 98%;
+}
+#wplannerfb .section-checkbox .explain {
+	max-width:94%;
+}
+#wplannerfb .section-color .controls {
+	min-width: 125px;
+	width: 125px
+}
+#wplannerfb .controls input, #wplannerfb .controls select, #wplannerfb .controls textarea {
+	margin-bottom: 10px;
+	width: 100%;
+}
+#wplannerfb .section-radio label, #wplannerfb .section-multicheck label {
+	float: left;
+	max-width: 90%;
+	line-height: 16px;
+	margin-bottom: 5px;
+}
+#wplannerfb input.checkbox, #wplannerfb input.wplannerfb-radio {
+	width: 30px;
+	float: left;
+	clear: both;
+}
+#wplannerfb .controls .wplannerfb-color {
+	float: left;
+	width: 80px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#wplannerfb .controls .wplannerfb-typography-size {
+	width: 80px;
+	margin-left: 5px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-typography-unit {
+	width: 50px;
+	margin-left: 5px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-typography-face {
+	width: 100px;
+	margin-left: 5px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-typography-style {
+	width: 80px;
+	margin-left: 5px;
+	margin-right: 5px;
+	float: left
+}
+#wplannerfb .wplannerfb-background-properties {
+	clear: both;
+	margin-top: 18px;	
+}
+#wplannerfb .controls .wplannerfb-background-repeat {
+	width: 125px;
+	margin-right: 5px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-background-position {
+	width: 125px;
+	margin-right: 5px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-background-attachment {
+	width: 125px;
+	margin-right: 5px;
+	float: left
+}
+#wplannerfb div.section-background .controls input.upload {
+	width: 47%;
+}
+#wplannerfb .controls .wplannerfb-radio-img-img {
+	border: 3px solid #f9f9f9;
+	margin: 0 5px 10px 0;
+	display: none;
+	cursor: pointer;
+	float: left;
+}
+#wplannerfb .controls .wplannerfb-radio-img-selected {
+	border: 3px solid #ccc
+}
+#wplannerfb .controls .wplannerfb-radio-img-img:hover {
+	opacity: .8;
+}
+#wplannerfb .controls .wplannerfb-border-width {
+	width: 80px;
+	float: left
+}
+#wplannerfb .controls .wplannerfb-border-style {
+	width: 120px;
+	float: left
+}
+#wplannerfb .hide {
+	display: none;
+}
+#wplannerfb .wplannerfb-option-image {
+	max-width: 340px;
+	margin: 3px 0 18px 0;
+}
+#wplannerfb .mini .controls select, #wplannerfb .section .mini .controls {
+	width: 140px;
+}
+#wplannerfb .mini .controls input, #wplannerfb .mini .controls {
+	min-width: 140px;
+	width: 140px;
+}
+#wplannerfb .mini .explain {
+	max-width: 74%;
+}
+
+/* Image Uploader */
+#wplannerfb .controls input.upload {
+	width: 80%;
+}
+#wplannerfb .controls input.upload_button {
+	float: right;
+	width: 45px;
+	border-color: #BBBBBB;
+	cursor: pointer;
+	height: 16px;
+}
+#wplannerfb .controls input.upload_button:hover {
+	border-color: #666666;
+	color: #000;
+}
+#wplannerfb .screenshot {
+	float: left;
+	margin-left: 1px;
+	position: relative;
+	width: 344px;
+	margin-top: 3px;
+}
+#wplannerfb .screenshot img {
+	background: #FAFAFA;
+	border-color: #ccc #eee #eee #ccc;
+	border-style: solid;
+	border-width: 1px;
+	float: left;
+	max-width: 334px;
+	padding: 4px;
+	margin-bottom: 10px;
+}
+#wplannerfb .screenshot .mlu_remove {
+	background: url("../images/ico-delete.png") no-repeat;
+	border: medium none;
+	bottom: 4px;
+	display: block;
+	float: left;
+	height: 16px;
+	padding: 0;
+	position: absolute;
+	left: -4px;
+	text-indent: -9999px;
+	width: 16px;
+}
+#wplannerfb .screenshot .no_image .file_link {
+	margin-left: 20px;
+}
+#wplannerfb .screenshot .no_image .mlu_remove {
+	bottom: 0px;
+}
+#wplannerfb .reset-button {
+	float: left;
+	cursor: pointer;
+}
+
+/* Bottom Section */
+#wplannerfb-submit {
+	padding: 7px 10px;
+	border-top: 1px solid #ECECEC;
+	background-color: #F1F1F1;
+    background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+}
+#wplannerfb .button-primary {
+	float: left;
+}
